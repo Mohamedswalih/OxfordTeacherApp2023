@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "667218912424",
+    "project_id": "oxford-teacher-a7771",
+    "storage_bucket": "oxford-teacher-a7771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667218912424:android:75f37eb41f85fae5c64e9d",
+        "android_client_info": {
+          "package_name": "com.bmark.oxfordteacher.oxford_teacher_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667218912424-9f47heuuhd7tb0qsfsltirkhlg54lrjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmark.oxfordteacher.oxford_teacher_app",
+            "certificate_hash": "f0a14a7c126c3b82b5ef92b37b390856f2d61f2d"
+          }
+        },
+        {
+          "client_id": "667218912424-qjeqllfuba0mj5sk2t3p540g8d1ckov9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmark.oxfordteacher.oxford_teacher_app",
+            "certificate_hash": "9ca99afef8fad2928a4050c756254aa800fd257d"
+          }
+        },
+        {
+          "client_id": "667218912424-4emkc2rhgcoucpj30l64m195o68h6pv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8G_Tcq77RYXCO7ZUWFweGjDnderLLmDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667218912424-4emkc2rhgcoucpj30l64m195o68h6pv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667218912424-8mfbrl58pe6659cl2dhocp9ip81u7anv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bmark.oxfordteacher.oxfordTeacherApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
